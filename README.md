@@ -47,11 +47,11 @@ python hello_world.py
 ## 💻 Sample Output
 
 ```
-Enter your name: Manoj
+Enter your name: Saicharan
 Enter your internship role: Python Developer Intern
 
 --- Intern Details ---
-Name: Manoj
+Name: Saicharan
 Internship Role: Python Developer Intern
 Date: 2026-01-15
 ```
